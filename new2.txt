@@ -1,3 +1,4 @@
 added new content for new2.txt
 added new content
 added latest content
+Newly added content
